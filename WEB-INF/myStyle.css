@@ -1,0 +1,16 @@
+body
+{
+	background: url(images/bg.png) #e5e5e5 repeat-x;
+	font: normal 10pt Arial;
+}
+
+.match
+{
+	color: rgb(69,256,69);
+}
+
+
+.nomatch
+{
+	color: rgb(256,69,69);
+}
